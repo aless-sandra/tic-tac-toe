@@ -9,5 +9,4 @@ t : play with the Terminal""")
     quit()
 
 if __name__ == "__main__":
-    pass
-    pass
+    print("Running the tic tac toe program")
